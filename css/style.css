@@ -42,7 +42,7 @@ a {
   .container > div {
     width: 100%; }
 .grid-container {
-    padding-top: 150px;
+    padding-top: 120px;
 }
 .heading {
   justify-content: space-around;
@@ -50,9 +50,9 @@ a {
   height: 50px; }
 
 .heading .time {
-  width: 65px;
+  
   text-align: center;
-  font-size: 2.6rem; }
+  font-size: 1.6rem; }
 
 .grid-cell {
   margin: 0 auto;
