@@ -42,7 +42,7 @@ a {
   .container > div {
     width: 100%; }
 .grid-container {
-    padding-top: 120px;
+    padding-top: 60px;
 }
 .heading {
   justify-content: space-around;
