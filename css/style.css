@@ -37,10 +37,13 @@ a {
   margin: 0 auto;
   background: rgba(0, 0, 0, 0.5);
   height: 100%;
-  overflow: hidden; }
+  overflow: hidden;
+  padding-top: 60px; }
   .container > div {
     width: 100%; }
-
+.grid-container {
+    padding-top: 150px;
+}
 .heading {
   justify-content: space-around;
   align-items: center;
