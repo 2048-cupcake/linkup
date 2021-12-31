@@ -22,11 +22,11 @@ body {
 
 .btn {
   padding: 0 8px;
-  background: rgba(255, 255, 255, 0.2);
+  background: rgb(61 223 148 / 95%);
   color: white;
   height: 40px;
   line-height: 40px;
-  border-radius: 3px; }
+  border-radius:3px solid rgba(0,0,0,.125);}
 
 a {
   text-decoration: none;
